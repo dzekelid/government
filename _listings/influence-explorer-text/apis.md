@@ -1,0 +1,38 @@
+---
+name: Influence Explorer Text
+description: The API that powers the real-time textual analysis behind the Sunlight
+  Foundations Inbox Influence is called the Influence Explorer Text API, and it is
+  available for general public use in applications that require extraction of politically
+  relevant entities from text on either the client or server side. The data supplied
+  by this API is a subset of the data available in Sunlightsnbsp;Transparency Data,
+  and provides summary information about campaign finance, lobbying, fundraising,
+  and other influence-related areas of interest.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/influence-explorer.png
+x-kinRank: "8"
+x-alexaRank: ""
+tags:
+- Textual analysis tool
+- Text
+- Stack Network
+- Semantic
+- Politics
+- Government
+- Government
+created: "2018-03-10"
+modified: "2018-03-10"
+url: https://raw.githubusercontent.com/streamdata-gallery/government/master/_listings/influence-explorer-text/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-base
+  url: ttp://transparencydata.com/api/
+- type: x-developer
+  url: http://data.influenceexplorer.com/api
+- type: x-website
+  url: http://influenceexplorer.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---
